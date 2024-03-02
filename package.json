@@ -2,7 +2,7 @@
   "name": "emswebb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://basharvi.github.io/aiman/",
+  "homepage": "https://basharvi.github.io/aiman",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -11,6 +11,7 @@
     "aos": "^2.3.4",
     "axios": "^1.6.2",
     "ftp-deploy": "^2.4.5",
+    "gh-pages": "^6.1.1",
     "jquery": "^3.7.1",
     "owl.carousel": "^2.3.4",
     "react": "^18.2.0",
